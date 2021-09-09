@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My name is Rebekah Omana Benny
+I am learning
 hello
